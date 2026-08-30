@@ -178,3 +178,4 @@
   - ```shell
     $ hub install w2v_baidu_encyclopedia_context_word-character_char1-4_dim300==1.0.1
     ```
+

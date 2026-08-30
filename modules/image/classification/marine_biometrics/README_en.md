@@ -82,3 +82,4 @@
   - ```shell
     $ hub install marine_biometrics==1.0.0
     ```
+
