@@ -125,3 +125,4 @@ class LACTokenizer(Tokenizer):
         """Check whether the word is in the vocabulary.
         """
         return word in self.__vocab
+# 9dd091

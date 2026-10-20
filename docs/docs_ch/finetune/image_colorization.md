@@ -171,3 +171,4 @@ https://github.com/richzhang/colorization-pytorch
 paddlepaddle >= 2.0.0rc
 
 paddlehub >= 2.0.0
+
