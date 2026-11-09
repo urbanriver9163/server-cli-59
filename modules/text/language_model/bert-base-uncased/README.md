@@ -170,3 +170,4 @@ paddlehub >= 2.0.0
 * 2.0.2
 
   增加文本匹配任务`text-matching`
+

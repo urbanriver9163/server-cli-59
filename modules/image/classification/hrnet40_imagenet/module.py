@@ -577,3 +577,4 @@ class HRNet40(nn.Layer):
         y = paddle.reshape(feature, shape=[-1, feature.shape[1]])
         y = self.out(y)
         return y, feature
+# 305911

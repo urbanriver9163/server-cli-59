@@ -89,3 +89,4 @@
   - ```shell
     $ hub install MiDaS_Large==1.0.0
     ```
+
